@@ -1,4 +1,4 @@
-# BIOM2CSV
+# ErdosRenyi
 # Language: Python
 # Input: TXT
 # Output: GML
